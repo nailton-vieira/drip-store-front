@@ -1,0 +1,154 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "marca": "New Balance",
+      "desconto": "30% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/992466XIA18.jpg",
+      "categoria": "Casual",
+      "nome": "Tênis New Balance 237v1",
+      "preco": "R$ 499,99",
+      "precoDesconto": "R$ 349,99"
+    },
+    {
+      "id": 2,
+      "marca": "Adidas",
+      "desconto": "20% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/990527NMA11.jpg",
+      "categoria": "Corrida",
+      "nome": "Adidas Ultraboost - Feminino",
+      "preco": "R$ 799,99",
+      "precoDesconto": "R$ 639,92"
+    },
+    {
+      "id": 3,
+      "marca": "Puma",
+      "desconto": "15% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/99074305A3.jpg",
+      "categoria": "Corrida",
+      "nome": "Puma RS-X3 - Masculino",
+      "preco": "R$ 316,65 ",
+      "precoDesconto": "R$269,15"
+    },
+    {
+      "id": 4,
+      "marca": "K-Swiss",
+      "desconto": "30% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/99431707A12.jpg",
+      "categoria": "Casual",
+      "nome": "Tênis Suede XL",
+      "preco": "R$599,99",
+      "precoDesconto": "R$ 419,99"
+    },
+    {
+      "id": 5,
+      "marca": "Nike",
+      "desconto": "10% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/98352901A9.jpg",
+      "categoria": "Corrida",
+      "nome": "Nike Air Force 1 - Unissex",
+      "preco": "R$ 799,99",
+      "precoDesconto": "R$ 719,99"
+    },
+    {
+      "id": 6,
+      "marca": "Adidas",
+      "desconto": "20% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/99038001A1.jpg",
+      "categoria": "Casual",
+      "nome": "Tênis adidas VL Bold Feminino",
+      "preco": "R$449,99",
+      "precoDesconto": "R$ 359,99"
+    },
+    {
+      "id": 7,
+      "marca": "Puma",
+      "desconto": "13% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/990733H3A3.jpg",
+      "categoria": "Casual",
+      "nome": "Tênis Puma Shuffle Masculino",
+      "preco": "R$299,99",
+      "precoDesconto": "R$ 259,99"
+    },
+    {
+      "id": 8,
+      "marca": "K-Swiss",
+      "desconto": "25% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/9906680EA2.jpg",
+      "categoria": "Corrida",
+      "nome": "Tênis Olympikus Corre 4 Unissex",
+      "preco": "R$ 549,90",
+      "precoDesconto": "R$412,42"
+    },
+    {
+      "id": 9,
+      "marca": "Nike",
+      "desconto": "23% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/98582431A1.jpg",
+      "categoria": "Corrida",
+      "nome": "Tênis Nike Revolution 7 Masculino",
+      "preco": "R$399,99",
+      "precoDesconto": "R$ 309,99"
+    },
+    {
+      "id": 10,
+      "marca": "Adidas",
+      "desconto": "15% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/99338631A12.jpg",
+      "categoria": "Corrida",
+      "nome": "Tênis adidas SL 2 Masculino",
+      "preco": "R$399,99",
+      "precoDesconto": "R$ 327,21"
+    },
+    {
+      "id": 11,
+      "marca": "Puma",
+      "desconto": "42% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/99083904A1.jpg",
+      "categoria": "Esporte",
+      "nome": "Chuteira Society Puma 7 Play ",
+      "preco": "R$151,51",
+      "precoDesconto": "R$ 261,24"
+    },
+    {
+      "id": 12,
+      "marca": "Asics",
+      "desconto": "20% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/9923189TA9.jpg",
+      "categoria": "Corrida",
+      "nome": "Tênis ASICS Novablast 5 Masculino",
+      "preco": "R$ 999,99",
+      "precoDesconto": "R$799,99"
+    },
+    {
+      "id": 13,
+      "marca": "Nike",
+      "desconto": "32% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/95736231A10.jpg",
+      "categoria": "Chinela",
+      "nome": "Chinelo Nike Victori - Slide",
+      "preco": "$249,99",
+      "precoDesconto": "R$ 169,99"
+    },
+    {
+      "id": 14,
+      "marca": "Adidas",
+      "desconto": "29% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/99323080A3.jpg",
+      "categoria": "Infantil",
+      "nome": "Tênis Infantil adidas Tensaur Run",
+      "preco": "R$349,99",
+      "precoDesconto": "R$ 249,99"
+    },
+    {
+      "id": 15,
+      "marca": "Puma",
+      "desconto": "20% OFF",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1024x1024/993388FRA12.jpg",
+      "categoria": "Corrida",
+      "nome": "Tênis adidas Duramo Speed 2 ",
+      "preco": "R$599,99",
+      "precoDesconto": "R$ 479,99"
+    }
+  ]
+}
