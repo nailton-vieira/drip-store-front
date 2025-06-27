@@ -1,12 +1,37 @@
-# React + Vite
+<h1 align="center">
+  Projeto Drip Store - E-commerce
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  Este é o frontend do projeto Geração tech Drip Store, desenvolvido para e-commerce 
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a>   |   
+  <a href="#instalação">Instalação</a>  |   
+  <a href="#execução">Execução</a>    
+ </p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O projeto foi desenvolvido com um conjunto de tecnologias robustas e modernas abaixo.
+
+- **[React](https://react.dev/)** - The library for web and native user interfaces.
+- **[Tailwindcss](https://tailwindcss.com/)** -Rapidly build modern websites without ever leaving your HTML.
+
+
+
+## Instalação
+
+# Instale as dependências do projeto
+$ npm install
+
+
+
+## Execução
+
+# Rodar o servidor do projeto
+$ npm run dev
+
+
